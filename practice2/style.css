@@ -1,0 +1,20 @@
+.one{
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#two.blue{
+    color: blue;
+    font-size: 36px;
+}
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.one.three{
+    font-size: 24px;
+}
+#two.bubu{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+}
